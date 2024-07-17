@@ -1,0 +1,27 @@
+.product-card{
+    width: 100%;
+    display: flex;
+  margin-top: 30px;
+
+  
+}
+.imges img{
+    border-radius: 40px;
+}
+
+.titles{
+   font-size: x-large;
+   font-weight: 900;
+   margin-left: 60px;
+   color: #ffff;
+}
+.buttons{
+    display: flex;
+    gap: 20px;
+   
+}
+.buttons button{
+    width: 100px;
+    height: 50px;
+    color: #ffff;
+}
